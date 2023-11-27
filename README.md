@@ -10,3 +10,37 @@ Reference:
 2. [Fireside Chat with Ilya Sutskever and Jensen Huang: AI Today and Vision of the Future](https://www.youtube.com/watch?v=-yquJiNKlAE)
 3. [Ilya Sutskever (OpenAI Chief Scientist) - Building AGI](https://www.youtube.com/watch?v=Yf1o0TQzry8)
 ***
+***
+| [Alignment](#alignment) | [World Model](#world-model) | [Reasoning](#reasoning) | [Emergent Behavior](#emergent-behavior) | [Others](#others) | [Other Repos](#other-repos) |
+| :-: | :-: | :-: | :-: |:-: |:-: |
+|  |  |  |  |  |
+***
+## Alignment
+| Year | Title | Notes | 
+| :-: | :-: | :-: |
+|  |  | 
+***
+## World Model
+| Year | Title | Notes | 
+| :-: | :-: | :-: |
+|  |  | 
+***
+## Reasoning
+| Year | Title | Notes | 
+| :-: | :-: | :-: |
+|  |  | 
+***
+## Emergent Behavior
+| Year | Title | Notes | 
+| :-: | :-: | :-: |
+|  |  | 
+***
+## Others
+| Year | Title | Notes | 
+| :-: | :-: | :-: |
+|  |  | 
+***
+## Other Repos
+| Repo | Notes | 
+| :-: | :-: |
+|  | 
