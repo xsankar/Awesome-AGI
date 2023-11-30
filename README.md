@@ -30,12 +30,12 @@ Reference:
 ## World Model
 | Year | Title | Notes | 
 | :-: | :-: | :-: |
-|  |  | 
+|  | see World Knowledge in LLM Evaluation [Here](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds#world-knowledge) |  |
 ***
 ## Reasoning
 | Year | Title | Notes | 
 | :-: | :-: | :-: |
-|  |  | 
+|  | see Commonsense Reasoning in LLM Evaluation [Here](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds#commonsense-reasoning) |  |
 ***
 ## Emergent Behavior
 | Year | Title | Notes | 
