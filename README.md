@@ -25,7 +25,7 @@ Reference:
 ## Alignment
 | Year | Title | Notes | 
 | :-: | :-: | :-: |
-|  |  | 
+|  | see Alignment in LLM Evaluation [Here](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds#alignment) | 
 ***
 ## World Model
 | Year | Title | Notes | 
