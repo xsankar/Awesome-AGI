@@ -3,7 +3,7 @@
 
 > Seriously, Paper Collections and debates about AGI. I will try to organize by topics like World Model, Reasoning, Emergent Behavior and Alignment
 >
-> ***As of 11.30.23 I am working hard to build the repos - takes time to review and curate. WOuld appreciate your  patience ...***
+> ***As of 11.30.23 I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***
 > 
 > > [About Me](https://www.linkedin.com/in/ksankar) [Blog](https://ksankar.medium.com)
 #### _[Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
