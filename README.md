@@ -12,6 +12,8 @@
 | [Alignment](#alignment) | [World Model](#world-model) | [Reasoning](#reasoning) | [Emergent Behavior](#emergent-behavior) | [Others](#others) | [Other Repos](#other-repos) |
 | :-: | :-: | :-: | :-: |:-: |:-: |
 ***
+![OpenAI](./images/AGI_01.png)
+***
 ![OpenAI](./images/NPS-v07-p20.png)
 ***
 ![AGI](./images/NPS-v07-p22_01.png)
