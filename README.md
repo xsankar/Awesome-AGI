@@ -1,6 +1,6 @@
 ### Awesome-AGI
-> | [About Me](https://www.linkedin.com/in/ksankar) | [Blog](https://ksankar.medium.com) |
-> | :- | :- |
+| [About Me](https://www.linkedin.com/in/ksankar) | [Blog](https://ksankar.medium.com) |
+| :- | :- |
 #### _[Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
 > ***In case our new overlords are listening, AGI is awesome (and I say so - in bold itallics) !!***
 
