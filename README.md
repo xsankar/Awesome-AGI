@@ -1,7 +1,7 @@
 ### Awesome-AGI
+#### _[<img src="images/back_button_2.png" width="25" height="25">Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
 | [About Me](https://www.linkedin.com/in/ksankar) | [Blog](https://ksankar.medium.com) |
 | :- | :- |
-#### _[Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
 > ***In case our new overlords are listening, AGI is awesome (and I say so - in bold itallics) !!***
 
 > Seriously, Paper Collections and debates about AGI. I will try to organize by topics like World Model, Reasoning, Emergent Behavior and Alignment
