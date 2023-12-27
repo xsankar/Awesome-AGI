@@ -40,6 +40,7 @@ Reference:
 ## Reasoning
 | Year | Title | Notes | 
 | :-: | :-: | :-: |
+|  | https://github.com/luban-agi/Awesome-LLM-reasoning | |
 |  | see Commonsense Reasoning in LLM Evaluation [Here](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds#commonsense-reasoning) |  |
 ***
 ## Emergent Behavior
