@@ -42,19 +42,19 @@ Reference:
 | Year | Title | Notes | 
 | :-: | :-: | :-: |
 |  | https://github.com/luban-agi/Awesome-LLM-reasoning | |
-|  | see Commonsense Reasoning in LLM Evaluation [Here](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds#commonsense-reasoning) |  |
+|  | See **Commonsense Reasoning** in LLM Evaluation [Here](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds#commonsense-reasoning) |  |
 ***
 ## Emergent Behavior
 | Year | Title | Notes | 
 | :-: | :-: | :-: |
-|  |  | 
+|  | See **Robustness** in LLM Evaluation [Here](https://github.com/xsankar/Awesome-LLM-Eval-MetricMinds/tree/main?tab=readme-ov-file#robustness)  |  |
 ***
 ## Others
 | Year | Title | Notes | 
 | :-: | :-: | :-: |
-|  |  | 
+|  |  |  |
 ***
 ## Other Repos
 | Repo | Notes | 
 | :-: | :-: |
-|  | 
+|  |  |
