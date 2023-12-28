@@ -25,7 +25,7 @@ Reference:
 ***
 ![AGI-Levels](./images/LLMSec_P65.jpeg)
 ***
-| [Alignment](#alignment) | [World Model](#world-model) | [Reasoning](#reasoning) | [Emergent Behavior](#emergent-behavior) | [Others](#others) | [Other Repos](#other-repos) |
+| [Alignment](#alignment) | [World Model](#world-model) | [Reasoning](#reasoning) | [Emergent Behavior](#emergent-behavior) | [Other Topics](#other-topics) | [Other Repos](#other-repos) |
 | :-: | :-: | :-: | :-: |:-: |:-: |
 ***
 ## Alignment
@@ -49,12 +49,14 @@ Reference:
 | :-: | :-: | :-: |
 |  | See **Robustness** in LLM Evaluation [Here](https://github.com/xsankar/Awesome-LLM-Eval-MetricMinds/tree/main?tab=readme-ov-file#robustness)  |  |
 ***
-## Others
+## Other Topics
 | Year | Title | Notes | 
 | :-: | :-: | :-: |
-|  |  |  |
+|  |  |
 ***
 ## Other Repos
 | Repo | Notes | 
 | :-: | :-: |
-|  |  |
+|  |Planning  |  |
+|  | https://github.com/qinwei-hfut/Awesome-LLM-Planning-Papers | Investigating and exploring the planning ablility of LLMs. |
+
