@@ -41,6 +41,7 @@ Reference:
 ## Reasoning
 | Year | Title | Notes | 
 | :-: | :-: | :-: |
+|  | [A Survey of Reasoning with Foundation Models](https://arxiv.org/abs/2312.11562v4) | |
 |  | https://github.com/luban-agi/Awesome-LLM-reasoning | |
 |  | See **Commonsense Reasoning** in LLM Evaluation [Here](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds#commonsense-reasoning) |  |
 ***
