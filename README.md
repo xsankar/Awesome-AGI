@@ -15,7 +15,7 @@
 ***
 ![OpenAI](./images/AGI_01x.png)
 ***
-![OpenAI](./images/NPS-v07-p20.png)
+![OpenAI](./images/AGI_04a.jpeg)
 ***
 ![AGI](./images/LLMSec_P66.jpeg)
 Reference:
